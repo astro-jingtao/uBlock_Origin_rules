@@ -1,0 +1,1 @@
+cf.qq.com##[id^="amsopenCover_"]
