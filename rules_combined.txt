@@ -1,6 +1,3 @@
-// www.bilibili.com##.bili-video-card__wrap:has(.bili-video-card__info--owner:has-text(罗翔说刑法))
-// www.bilibili.com##.bili-video-card__wrap:has(.bili-video-card__info--owner[href*="1704785615"])
-
 www.bilibili.com##.bili-video-card__wrap:has(.bili-video-card__info--owner[href*="8299159"])
 www.bilibili.com##.bili-video-card__wrap:has(.bili-video-card__info--owner[href*="8237763"])
 www.bilibili.com##.bili-video-card__wrap:has(.bili-video-card__info--owner[href*="488030594"])
@@ -10,3 +7,4 @@ www.bilibili.com##.bili-video-card__wrap:has(.bili-video-card__info--owner[href*
 www.bilibili.com##.bili-video-card__wrap:has(.bili-video-card__info--owner[href*="3546387673254452"])
 www.bilibili.com##.bili-video-card__wrap:has(.bili-video-card__info--owner[href*="432477130"])
 www.bilibili.com##.bili-video-card__wrap:has(.bili-video-card__info--owner[href*="16869601"])
+cf.qq.com##[id^="amsopenCover_"]
