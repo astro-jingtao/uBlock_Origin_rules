@@ -1,1 +1,2 @@
 cf.qq.com##[id^="amsopenCover_"]
+cf.qq.com##div.amsdialog_modal:has-text(抱歉，您访问太过频繁，请稍后再试！)

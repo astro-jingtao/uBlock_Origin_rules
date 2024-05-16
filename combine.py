@@ -20,7 +20,7 @@ def read_and_combine(folder_path):
 
 def save_to_file(lines, output_path):
     # Write all lines to the specified file
-    with open(output_path, 'w') as file:
+    with open(output_path, 'w', encoding='utf-8') as file:
         for line in lines:
             file.write(line + '\n')  # Add newline to separate the lines
 
